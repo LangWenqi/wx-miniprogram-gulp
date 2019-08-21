@@ -17,7 +17,7 @@ $ npm install --global gulp-cli
 ```
 ##### 1. 下载代码
 ```
-$ git clone https://github.com/YangQiGitHub/wx-miniprogram-boilerplate.git
+$ git clone https://github.com/LangWenqi/wx-miniprogram-gulp.git
 ```
 ##### 2. 进目录，安装依赖
 ```
